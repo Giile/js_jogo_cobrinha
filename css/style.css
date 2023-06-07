@@ -3,4 +3,34 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: rgb(9, 222, 122);
+}
+
+.maçã {
+    margin-top: 50px;
+    position: fixed;
+    margin-right: 900px;
+}
+
+.grama {
+    margin-top: 310px;
+    position: fixed;
+    margin-left: 900px;
+}
+
+.grama2 {
+    margin-top: 310px;
+    position: fixed;
+    margin-right: 900px;
+}
+
+.grama3 {
+    margin-top: 310px;
+    position: fixed;
+    margin-bottom: auto;
+}
+
+.passaros {
+    position: fixed;
+    margin-left: 900px;
 }
